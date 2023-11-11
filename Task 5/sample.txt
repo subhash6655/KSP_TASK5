@@ -1,0 +1,10 @@
+Types of Errors in JS
+
+
+1.Syntax Error
+2.Type Error
+3.Reference Error
+4.Evaluation Error
+5.Range Error
+6. URI Error
+7. Internal Error
